@@ -27,7 +27,6 @@ nodes were assigned a set of random (x,y) coordinated from a uniform random dist
 
 The seed and run values for the random number generator were set at '3' and '1' respectively for each of the 4 generations.
 
-
 The x and y locations were extracted from the trace files for each node and was plotted with a python script with a 50m radius around it
 the 50m is to signify the wifi range.
 
