@@ -4,7 +4,7 @@
 ![Lines of code](https://img.shields.io/tokei/lines/github/marshallasch/density-plots?style=plastic)
 ![NS3 version](https://img.shields.io/badge/NS--3-3.32-blueviolet?style=plastic)
 
-# Random Waypoint Mobility Model Test
+# Node coverage for different city population densities
 
 This repository holds the code that is used to run the ns-3 simulations to generate the data and produce the density plots comparing several locations in canada.
 
